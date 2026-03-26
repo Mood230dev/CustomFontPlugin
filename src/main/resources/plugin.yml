@@ -1,0 +1,5 @@
+name: CustomFont
+version: 1.0
+main: me.dev.mood.CustomFontPlugin
+api-version: 1.21
+author: Mood_23
